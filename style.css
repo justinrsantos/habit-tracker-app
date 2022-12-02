@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    flex-direction: column;
+}
+
+.input-prompt{
+    background-color: yellow;
+}
